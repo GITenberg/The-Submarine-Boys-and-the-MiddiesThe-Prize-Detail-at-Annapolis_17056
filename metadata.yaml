@@ -1,0 +1,30 @@
+_repo: The-Submarine-Boys-and-the-MiddiesThe-Prize-Detail-at-Annapolis_17056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Durham, Victor G.
+    gutenberg_agent_id: '7113'
+    url: http://www.gutenberg.org/2009/agents/7113
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcsh 'Annapolis (Md.) -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: 'The Submarine Boys and the Middies
+
+  The Prize Detail at Annapolis'
+url: http://www.gutenberg.org/ebooks/17056
